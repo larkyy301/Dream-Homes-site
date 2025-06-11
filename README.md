@@ -152,7 +152,7 @@
       <h2>Contact Us</h2>
       <p>Email: dreamhomeinfo561</p>
       <p>Phone: (123) 456-7890</p>
-      <p>Address: 123 Main Street, YourCity, Country</p>
+      <p>Address: 154 Old Turnpike Rd, Southington, CT 06489, USA</p>
     </section>
   </main>
 
