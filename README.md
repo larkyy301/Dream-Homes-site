@@ -134,7 +134,7 @@
           <img src="https://images.unsplash.com/photo-1572120360610-d971b9b78842" alt="House 2">
           <div class="property-info">
             <h3>Luxury Villa</h3>
-            <p>5 Bed, 4 Bath, 4,000 sqft - $1,250,000</p>
+            <p>5 Bed, 4 Bath, 4,000 sqft - $100,000</p>
           </div>
         </div>
 
@@ -142,7 +142,7 @@
           <img src="https://images.unsplash.com/photo-1599427301266-3b4f4bbf45cf" alt="House 3">
           <div class="property-info">
             <h3>Downtown Apartment</h3>
-            <p>2 Bed, 2 Bath, 1,200 sqft - $500,000</p>
+            <p>2 Bed, 2 Bath, 1,200 sqft - $80,000</p>
           </div>
         </div>
       </div>
