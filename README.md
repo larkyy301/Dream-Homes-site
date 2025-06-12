@@ -11,6 +11,38 @@
       background-color: #f9f9f9;
       color: #333;
     }
+<section id="property-listings" style="padding: 40px; background-color: #f8f8f8;">
+  <h2 style="text-align: center; margin-bottom: 30px;">Featured Properties</h2>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    
+    <!-- Property Card -->
+    <div style="width: 300px; background: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden;">
+      <img src="property1.jpg" alt="Property 1" style="width: 100%; height: 200px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h3>Modern Family Home</h3>
+        <p style="color: #007BFF; font-weight: bold;">$450,000</p>
+        <p>4 beds · 3 baths · 2,500 sqft</p>
+        <p>Located in a quiet suburb, this home offers spacious living areas and a large backyard.</p>
+        <a href="#" style="display: inline-block; margin-top: 10px; color: white; background-color: #007BFF; padding: 10px 15px; border-radius: 5px; text-decoration: none;">View Details</a>
+      </div>
+    </div>
+
+    <!-- Duplicate the above div for more listings -->
+    <!-- Example: -->
+    <div style="width: 300px; background: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden;">
+      <img src="property2.jpg" alt="Property 2" style="width: 100%; height: 200px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h3>Luxury Downtown Condo</h3>
+        <p style="color: #007BFF; font-weight: bold;">$720,000</p>
+        <p>2 beds · 2 baths · 1,200 sqft</p>
+        <p>Located in the heart of the city, this condo features high-end finishes and stunning views.</p>
+        <a href="#" style="display: inline-block; margin-top: 10px; color: white; background-color: #007BFF; padding: 10px 15px; border-radius: 5px; text-decoration: none;">View Details</a>
+      </div>
+    </div>
+
+  </div>
+</section>
 
     header {
       background-color: #2c3e50;
